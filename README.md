@@ -1,5 +1,5 @@
 ## ВЕСЬ ГОТОВЫЙ КОД ДЛЯ РАЗБОРА МОДУЛЬ 2
-https://github.com/amadesya/StoreApplication
+https://github.com/amadesya/StoreApplication35
 
 ## ЗАДАНИЕ ДЕМЭКЗАМЕНА МОДУЛЬ 1 И МОДУЛЬ 2
 https://github.com/amadesya/Task_DemExam
